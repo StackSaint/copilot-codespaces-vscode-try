@@ -1,0 +1,11 @@
+{
+    // Copilot Skills Temp
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
